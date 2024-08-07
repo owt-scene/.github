@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="owt-scene-logo.jpg" alt="OWT Scene Logo" width="200" height="auto" />
+  <img src="../owt-scene-logo.jpg" alt="OWT Scene Logo" width="200" height="auto" />
   <h1>Out of Work in Tech (OWT) Scene</h1>
 
   <p>
